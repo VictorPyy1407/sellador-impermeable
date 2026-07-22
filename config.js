@@ -28,14 +28,14 @@ const PRODUCT_CONFIG = {
   supabaseTable: "pedidos_web",
 
   // ====== IMAGEN PRINCIPAL + GALERÍA ======
-  hero: "img/hero-shield.png",
+  hero: "IMG/hero-shield.png",
   gallery: [
-    { src: "img/g-producto.jpg", cap: "Water Shield 1L · Agente sellador impermeabilizante Leisel" },
-    { src: "img/g-pared.jpg", cap: "Sella filtraciones en paredes y ladrillos" },
-    { src: "img/g-grieta.jpg", cap: "Penetra y sella grietas del cemento" },
-    { src: "img/g-liquido.jpg", cap: "Fórmula lista para usar, no necesita diluirse" },
-    { src: "img/g-ventana.jpg", cap: "Ideal para marcos de ventanas y juntas expuestas" },
-    { src: "img/g-aplicacion.jpg", cap: "Fácil aplicación con brocha o rodillo" }
+    { src: "IMG/g-producto.jpg", cap: "Water Shield 1L · Agente sellador impermeabilizante Leisel" },
+    { src: "IMG/g-pared.jpg", cap: "Sella filtraciones en paredes y ladrillos" },
+    { src: "IMG/g-grieta.jpg", cap: "Penetra y sella grietas del cemento" },
+    { src: "IMG/g-liquido.jpg", cap: "Fórmula lista para usar, no necesita diluirse" },
+    { src: "IMG/g-ventana.jpg", cap: "Ideal para marcos de ventanas y juntas expuestas" },
+    { src: "IMG/g-aplicacion.jpg", cap: "Fácil aplicación con brocha o rodillo" }
   ],
 
   // ====== PANEL DE FUNCIONES (editable en vivo con ?config=1 o Ctrl+Shift+C) ======
